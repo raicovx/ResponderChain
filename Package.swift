@@ -7,7 +7,7 @@ let package = Package(
     name: "ResponderChain",
     platforms: [
         .macOS(.v10_13),
-        .iOS(.v11),
+        .iOS(.v13),
         .tvOS(.v11)
     ],
     products: [
